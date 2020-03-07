@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#874D7D</color>
+    <color name="colorPrimaryDark">#2B2B2B</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#F7F7F7</color>
+    <color name="gray">#777777</color>
+    <color name="grayd">#FFA000</color>
+
+
+
+    <color name="grayas">#717171</color>
+    <color name="colorpressed">#875D80</color>
+
+
+    <color name="PPT">#ED7349</color>
+    <color name="PDF">#DE6D73</color>
+    <color name="DOCX">#5079B5</color>
+    <color name="EXCEL">#5EA272</color>
+    <color name="TEXT">#6BAED6</color>
+    <color name="AUDIO">#E291B6</color>
+    <color name="APK">#DE9BE8</color>
+    <color name="IMAGE">#DC6597</color>
+    <color name="OTHER">#7264A6</color>
+    <color name="MP4">#5EAEBB</color>
+    <color name="zip">#C69C6D</color>
+    <color name="internalstorage">#4D9350</color>
+    <color name="tranparent">#00F44336</color>
+</resources>

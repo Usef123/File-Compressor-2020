@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ZipUnZip(New)</string>
+
+    <!--Test Ads IDs-->
+    <string name="Banner_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="Interstitial_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>
+
+
+
+<!--    <string name="Banner_ID">ca-app-pub-8154237344141247/5823204294</string>-->
+<!--    <string name="app_ID">ca-app-pub-8154237344141247~7557784330</string>-->
+<!--    <string name="Interstitial_ID">ca-app-pub-8154237344141247/8066224256</string>-->
+<!--    <string name="native_id">ca-app-pub-8154237344141247/7874652560</string>-->
+
+    <string name="pptfiles">PPT Files</string>
+    <string name="docsfiles">Word Files</string>
+    <string name="pdffiles">PDF Files</string>
+    <string name="xlxs">Excel Files</string>
+    <string name="audio">Audio Files</string>
+    <string name="video">Video Files</string>
+    <string name="image">Image Files</string>
+    <string name="apk">APK Files</string>
+    <string name="txt">Text Files</string>
+    <string name="othersfiles">Other Files</string>
+
+    <string name="internal_stora">Internal Storage</string>
+    <string name="extract_here">Extract at File Location</string>
+    <string name="extract_to">Extract to</string>
+    <string name="cancel">Cancel</string>
+    <string name="locked">Locked</string>
+    <string name="extract_files_here">Extract Files Here</string>
+    <string name="zip_unzip"><![CDATA[Zip & UnZip]]></string>
+
+    <string name="my_own_message">How about a rating on PlayStore then ?</string>
+    <string name="my_own_cancel">Cancel</string>
+    <string name="my_own_thanks">Thanks</string>
+    <string name="my_own_rate">Rate</string>
+    <string name="please_wait_while_we_gather_things">Please Wait While We Gather Things</string>
+    <string name="zip_amp_unzip"><![CDATA[Zip & UnZip]]></string>
+</resources>
